@@ -1,0 +1,41 @@
+body 
+{ 
+    background-color: crimson; 
+} 
+ 
+a:link 
+{ 
+    color: maroon; 
+    background-color: whitesmoke; 
+    text-decoration: none; 
+    padding: 15px; 
+    display:inline-block; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+ 
+} 
+a:visited 
+{ 
+    color: darkslategray; 
+    background-color:red; 
+    text-decoration: none; 
+} 
+ 
+a:hover 
+{ 
+    color: seagreen; 
+    background-color: tan; 
+    text-decoration: underline; 
+} 
+ 
+a:active 
+{ 
+    color:indigo; 
+    background-color: thistle; 
+    text-decoration: none; 
+} 
+ 
+h1 
+{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color:blueviolet; 
+}
